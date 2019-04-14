@@ -28,3 +28,8 @@ The input JSON file format is:
   "count":""
  }
  ```
+ 
+ The folder "test" contains the unit tests (tests.py) I wrote to check wordcount.py. The folder "data" contains the various JSON files I used in tests.py. To run those tests, execute this command:
+ ```
+ > python tests.cpp
+ ```
