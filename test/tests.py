@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 from flask_restful import Resource, Api
 import unittest, sys, os
-sys.path.append(os.path.abspath("/home/clare/testAPI"))
+sys.path.append(os.path.abspath("../testAPI"))
 from wordcount import *
 
 
