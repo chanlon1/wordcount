@@ -13,7 +13,7 @@ The input JSON file format is:
  > python wordcount.py somefile.json
  ```
  
- The output JSON file will be of the following format:
+ The output JSON file will open in port 5002 in the following format:
  ```
  {
   "status":"OK",
